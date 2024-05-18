@@ -1,0 +1,17 @@
+{
+  "name": "akeey-package",
+  "version": "1.0.0",
+  "description": "jaada mat socho demo package hai",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
